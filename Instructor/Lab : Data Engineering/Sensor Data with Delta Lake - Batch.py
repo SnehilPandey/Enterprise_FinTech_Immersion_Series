@@ -650,4 +650,4 @@ tmp_df.write.option("mergeSchema","true").format("delta").mode("append").save(si
 
 # COMMAND ----------
 
-# MAGIC %md [Time to make our streams come true!]([https://demo.cloud.databricks.com/#/notebook/8498362])
+# MAGIC %md [Time to make our streams come true!]([https://adb-984752964297111.11.azuredatabricks.net/?o=984752964297111#notebook/1180714904905201])
