@@ -4,6 +4,10 @@
 
 # COMMAND ----------
 
+#We are gettung started
+
+# COMMAND ----------
+
 setup_responses = dbutils.notebook.run("./Utils/Setup-Streaming-GDrive", 0).split()
 
 checkpoint_stream1_path = setup_responses[0]
