@@ -4,7 +4,7 @@
 
 # COMMAND ----------
 
-#We are gettung started
+#We are gettung started now...
 
 # COMMAND ----------
 
